@@ -13,8 +13,6 @@ if API_KEY is None:
     print("Please set the NEWS_API_KEY environment variable.")
     sys.exit(1)
 
-
-
 # API documentation: https://newsapi.org/docs/endpoints/
 URL_EVERYTHING = "https://newsapi.org/v2/everything"
 URL_TOP_HEADLINES = "https://newsapi.org/v2/top-headlines"
@@ -29,10 +27,6 @@ CATEGORIES = [
     "sports",
     "technology",
 ]
-
-
-
-
 
 class NewsAPIClient:
     def get_articles(self, url, params):
