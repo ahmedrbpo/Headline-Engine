@@ -1,6 +1,6 @@
 # Headline-Engine - CS50P Final Project
 
-  #### Video Demo:  <https://youtu.be/iHCkeewtyvE>
+  #### Video Demo:  
 
 
 This is a Python script that allows you to retrieve news articles and sources from the [News API](https://newsapi.org/). It provides the following functionalities:
