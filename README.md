@@ -15,7 +15,7 @@ Before using this script, make sure you have the following prerequisites:
 
 - Python 3.x installed on your system.
 - An API key from [News API](https://newsapi.org/) (set as the `NEWS_API_KEY` environment variable).
-
+- set the enironment [.env set="NEWS_API_KEY"]
 
 
 ## Installation
