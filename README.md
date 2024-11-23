@@ -1,6 +1,6 @@
-# Headline-Engine - CS50P Final Project
+# News_Headline-Engine - CS50P Final Project
 
-  #### Video Demo:  
+  #### Video Demo: https://youtu.be/-_c11i4gvh4 
 
 
 This is a Python script that allows you to retrieve news articles and sources from the [News API](https://newsapi.org/). It provides the following functionalities:
@@ -15,7 +15,7 @@ Before using this script, make sure you have the following prerequisites:
 
 - Python 3.x installed on your system.
 - An API key from [News API](https://newsapi.org/) (set as the `NEWS_API_KEY` environment variable).
-- set the enironment [.env set=`NEWS_API_KEY`]
+- Set the enironment [.env set 'NEWS_API_KEY=API_KEY`]
 
 
 ## Installation
